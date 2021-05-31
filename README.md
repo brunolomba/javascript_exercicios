@@ -1,2 +1,2 @@
 # javascript_exercicios
- Exercicios feitos em JavaScript
+Exercicios feitos no Discover da rocketseat em JavaScript.
